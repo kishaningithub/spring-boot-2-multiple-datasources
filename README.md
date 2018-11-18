@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Example for spring boot 2 configuration with multiple data sources
+> Example for configuring spring boot 2 with multiple data sources
 
 ## Table of Contents
 
@@ -14,12 +14,12 @@
 
 ## Install
 
-```
-```
+- Clone this project
 
 ## Usage
 
-```
+```bash
+$ ./gradlew bootrun
 ```
 
 ## Maintainers
